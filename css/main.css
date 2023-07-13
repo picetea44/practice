@@ -75,3 +75,20 @@
     width: 100%;
     height: 80%;
 }
+.main-back{
+    width: 100%;
+    height: 500px;
+    background-image: url(../shoes.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    filter: brightness(70%);
+    padding: 1px;
+    float: left;
+}
+.main-title{
+    color: wheat;
+    font-size: 40px;
+    margin-top: 20px;
+
+}
