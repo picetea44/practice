@@ -84,11 +84,36 @@
     background-position: center;
     filter: brightness(70%);
     padding: 1px;
-    float: left;
+    text-align: center;
+    align-items: center;
+    
+    
 }
 .main-title{
     color: wheat;
     font-size: 40px;
     margin-top: 20px;
 
+}
+.main-button {
+    padding:  15px;
+    font-size: 20px;
+    background: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+.second-box {
+    clear: both;
+    width: 60%;
+    max-width: 1200px;
+    height: 40%;
+    background-color: gainsboro;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 450px;
+    margin: auto;
+    
 }
